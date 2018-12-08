@@ -1,0 +1,42 @@
++++
+title = "Hugo with asciidoc steps"
+date = 2018-11-10
+draft = false
+tags = ["hugo website"]
+categories = []
++++
+
+*  Install Hugo
+
+** https://gohugo.io/getting-started/installing/#windows
+
+* install ruby and gem. 
+* install asciidoc and asciidoctor 
+** gem install asciidoc
+** gem install asciidoctor
+
+* Add /Gemfile and /Gemfile.lock to your project root for asciidoc. Netlify uses them to identify that the build needs Ruby included.
+
+** GemFile
+
+[source,ruby]
+
+source 'https://rubygems.org'
+gem 'asciidoc'
+
+** Generate the *Gemfile.lock* locally using below commands.
+
+[source, ruby]
+
+gem install bundler
+bundle install
+
+
+
+
+* Follow the steps :
+** https://opensource.com/article/18/3/start-blog-30-minutes-hugo
+
+* To start the server locally use : huge server
+
+    

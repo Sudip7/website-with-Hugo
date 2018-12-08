@@ -1,0 +1,49 @@
++++
+title = "Design Patterns Short notes"
+date = 2018-11-10
+draft = false
+tags = ["design patterns"]
+categories = []
++++
+
+[preface]
+What is Design pattern
+-----------------------
+
+Instead of defining what is design pattern lets define what we mean by design and what we mean by pattern.
+
+*Design* is blue print or sketch of something so it can be defined as creation of something in mind. And *pattern* can be defined as guideline that repeat itself.
+
+*Design Pattern* provides a core of the solution in such a way that you can use the core solution every time but implementation should and may vary
+
+According to *Gang Of Four(GOF):* design patterns are primarily based on the following principles of object orientated design.
+
+* Program to an interface not an implementation
+* Favor object composition over inheritance
+
+Design pattern have two main usage in software development
+
+* *Common platform for developers*
+    Design patterns provide a standard terminology and are specific to particular scenario.
+* *Best Practices*
+    Design patterns have been evolved over a long period of time and they provide best solutions to certain problems faced during software development. 
+
+
+Factory Pattern
+~~~~~~~~~~~~~~~
+Create object without exposing the creation logic to the client and refer to newly created object using a common interface.
+
+
+https://www.oodesign.com/images/stories/factory%20implementation.gif
+
+https://www.tutorialspoint.com/design_pattern/images/factory_pattern_uml_diagram.jpg
+
+The implementation is really simple
+
+* The client needs a product, but instead of creating it directly using the new operator, it asks the factory object for a new product, providing the information about the type of object it needs.
+* The factory instantiates a new concrete product and then returns to the client the newly created product(casted to abstract product class).
+* The client uses the products as abstract products without being aware about their concrete implementation.
+
+*Steps and Code snippet*
+
+https://gist.github.com/Sudip7/dc4016e13eb77aaacd25790c56a9fe45

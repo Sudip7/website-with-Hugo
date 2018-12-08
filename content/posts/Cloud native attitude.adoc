@@ -1,0 +1,19 @@
++++
+title = "Cloud native attitude"
+date = 2018-12-05
+draft = false
+tags = ["cloud_native","use_cases","podcasts"]
+categories = []
++++
+
+The objective of this document is list out the use cases, resources to understand
+the application architecture, behaviour, use cases when migrating to cloud. 
+
+* resources url
+https://container-solutions.com/
+
+* Book or pdf
+The cloud native attitude : Anne Currie(part 1-3) in pdf format
+
+* podcast : 
+Jason Maude on Building a modern cloud-based banking startup in java - infoq podcast

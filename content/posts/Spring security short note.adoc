@@ -1,0 +1,19 @@
++++
+title = "Spring security short note"
+date = 2018-11-13
+draft = false
+tags = ["spring security"]
+categories = []
++++
+
+Spring security configuration can be found in the below listed urls.
+
+https://spring.io/guides/gs/securing-web/
+
+https://docs.spring.io/spring-security/site/docs/current/guides/html5/helloworld-boot.html
+
+https://dzone.com/articles/spring-security-4-authenticate-and-authorize-users
+
+https://www.boraji.com/spring-security-5-jdbc-based-authentication-example
+
+https://spring.io/guides/topicals/spring-security-architecture/
