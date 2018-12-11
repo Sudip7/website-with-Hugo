@@ -1,4 +1,4 @@
-baseurl = "https://calm-ridge-85566.herokuapp.com/"
+baseurl = "https://amazing-hugo-site.netlify.com/"
 title = "Hugo website"
 copyright = "Copyright &copy; 2018 - Sudip Nayak"
 canonifyurls = true
