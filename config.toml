@@ -1,6 +1,6 @@
-baseurl = "https://www.example.org/"
-title = "Kiera"
-copyright = "Copyright &copy; 2017 - Author Name"
+baseurl = "amazing-hugo-site.netlify.com/"
+title = "Hugo website"
+copyright = "Copyright &copy; 2018 - Sudip Nayak"
 canonifyurls = true
 theme = "kiera"
 
@@ -20,7 +20,7 @@ pygmentsCodeFences = true
     instagram = ""
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
+    tagline = "A Hugo website for creative and technical writing"
 
 [[menu.main]]
     name = "Home" #Name in the navigation bar

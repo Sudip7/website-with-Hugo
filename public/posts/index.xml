@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kiera</title>
+    <link>https://www.example.org/posts/</link>
+    <description>Recent content in Posts on Kiera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 - Author Name</copyright>
+    <lastBuildDate>Wed, 05 Dec 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloud native attitude</title>
+      <link>https://www.example.org/posts/cloud-native-attitude/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.example.org/posts/cloud-native-attitude/</guid>
+      <description>The objective of this document is list out the use cases, resources to understand the application architecture, behaviour, use cases when migrating to cloud.
+   resources url https://container-solutions.com/</description>
+    </item>
+    
+    <item>
+      <title>Spring security short note</title>
+      <link>https://www.example.org/posts/spring-security-short-note/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.example.org/posts/spring-security-short-note/</guid>
+      <description>Spring security configuration can be found in the below listed urls.
+ https://spring.io/guides/gs/securing-web/
+ https://docs.spring.io/spring-security/site/docs/current/guides/html5/helloworld-boot.html
+ https://dzone.com/articles/spring-security-4-authenticate-and-authorize-users
+ https://www.boraji.com/spring-security-5-jdbc-based-authentication-example
+ https://spring.io/guides/topicals/spring-security-architecture/
+ </description>
+    </item>
+    
+    <item>
+      <title>Design Patterns Short notes</title>
+      <link>https://www.example.org/posts/design-patterns/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.example.org/posts/design-patterns/</guid>
+      <description>What is Design pattern Instead of defining what is design pattern lets define what we mean by design and what we mean by pattern.
+ Design is blue print or sketch of something so it can be defined as creation of something in mind.</description>
+    </item>
+    
+    <item>
+      <title>Hugo with asciidoc steps</title>
+      <link>https://www.example.org/posts/hugo-with-asciidocs-steps/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.example.org/posts/hugo-with-asciidocs-steps/</guid>
+      <description>Install Hugo
+  https://gohugo.io/getting-started/installing/#windows
+     install ruby and gem.
+  install asciidoc and asciidoctor
+  gem install asciidoc
+  gem install asciidoctor</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://www.example.org/posts/new-sample-post/</link>
+      <pubDate>Sat, 03 Mar 2018 13:23:10 +0100</pubDate>
+      
+      <guid>https://www.example.org/posts/new-sample-post/</guid>
+      <description>Hello Hugo world! No more excuses for having no blog or documentation now!
+ </description>
+    </item>
+    
+  </channel>
+</rss>

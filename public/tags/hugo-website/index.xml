@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Website on Kiera</title>
+    <link>https://www.example.org/tags/hugo-website/</link>
+    <description>Recent content in Hugo Website on Kiera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 - Author Name</copyright>
+    <lastBuildDate>Sat, 10 Nov 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.example.org/tags/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo with asciidoc steps</title>
+      <link>https://www.example.org/posts/hugo-with-asciidocs-steps/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.example.org/posts/hugo-with-asciidocs-steps/</guid>
+      <description>Install Hugo
+  https://gohugo.io/getting-started/installing/#windows
+     install ruby and gem.
+  install asciidoc and asciidoctor
+  gem install asciidoc
+  gem install asciidoctor</description>
+    </item>
+    
+  </channel>
+</rss>

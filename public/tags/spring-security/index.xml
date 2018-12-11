@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring Security on Kiera</title>
+    <link>https://www.example.org/tags/spring-security/</link>
+    <description>Recent content in Spring Security on Kiera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 - Author Name</copyright>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.example.org/tags/spring-security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spring security short note</title>
+      <link>https://www.example.org/posts/spring-security-short-note/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.example.org/posts/spring-security-short-note/</guid>
+      <description>Spring security configuration can be found in the below listed urls.
+ https://spring.io/guides/gs/securing-web/
+ https://docs.spring.io/spring-security/site/docs/current/guides/html5/helloworld-boot.html
+ https://dzone.com/articles/spring-security-4-authenticate-and-authorize-users
+ https://www.boraji.com/spring-security-5-jdbc-based-authentication-example
+ https://spring.io/guides/topicals/spring-security-architecture/
+ </description>
+    </item>
+    
+  </channel>
+</rss>

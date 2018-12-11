@@ -1,0 +1,201 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <title>Kiera</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="The HTML5 Herald" />
+  <meta name="author" content="Sudip Nayak" />
+  <meta name="generator" content="Hugo 0.51" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  <link rel="stylesheet" type="text/css" href="https://www.example.org/css/styles.css" />
+</head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1>
+                <a href="https://www.example.org/">Kiera</a>
+            </h1>
+
+      <ul id="social-media">
+        
+        <li><a href="https://twitter.com/https://twitter.com/iSudip7"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+          
+        <li><a href="https://github.com/https://github.com/Sudip7"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a></li>
+           
+      </ul>
+      
+      <p><em>A Hugo theme for creative and technical writing</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="https://www.example.org/">
+                <i class="fa-li fa  fa-lg"></i><span>Home</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="https://www.example.org/posts/">
+                <i class="fa-li fa  fa-lg"></i><span>Posts</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+    <main>
+
+
+
+
+<article>
+
+    <h1>Design Patterns Short notes</h1>
+
+    
+        <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2018-11-10T00:00:00&#43;05:30">Nov 10, 2018</time>
+        </li>
+        
+        
+
+        
+        <li>
+            <em>
+                
+                    
+                    <a href="https://www.example.org/tags/design-patterns/">#design patterns</a>
+                
+            </em>
+        </li>
+        
+
+        <li>2 min read</li>
+    </ul>
+</aside>
+    
+
+    <div class="sect1">
+<h2 id="_what_is_design_pattern">What is Design pattern</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Instead of defining what is design pattern lets define what we mean by design and what we mean by pattern.</p>
+</div>
+<div class="paragraph">
+<p><strong>Design</strong> is blue print or sketch of something so it can be defined as creation of something in mind. And <strong>pattern</strong> can be defined as guideline that repeat itself.</p>
+</div>
+<div class="paragraph">
+<p><strong>Design Pattern</strong> provides a core of the solution in such a way that you can use the core solution every time but implementation should and may vary</p>
+</div>
+<div class="paragraph">
+<p>According to <strong>Gang Of Four(GOF):</strong> design patterns are primarily based on the following principles of object orientated design.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Program to an interface not an implementation</p>
+</li>
+<li>
+<p>Favor object composition over inheritance</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Design pattern have two main usage in software development</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Common platform for developers</strong>
+Design patterns provide a standard terminology and are specific to particular scenario.</p>
+</li>
+<li>
+<p><strong>Best Practices</strong>
+Design patterns have been evolved over a long period of time and they provide best solutions to certain problems faced during software development.</p>
+</li>
+</ul>
+</div>
+<div class="sect2">
+<h3 id="_factory_pattern">Factory Pattern</h3>
+<div class="paragraph">
+<p>Create object without exposing the creation logic to the client and refer to newly created object using a common interface.</p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.oodesign.com/images/stories/factory%20implementation.gif" class="bare">https://www.oodesign.com/images/stories/factory%20implementation.gif</a></p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.tutorialspoint.com/design_pattern/images/factory_pattern_uml_diagram.jpg" class="bare">https://www.tutorialspoint.com/design_pattern/images/factory_pattern_uml_diagram.jpg</a></p>
+</div>
+<div class="paragraph">
+<p>The implementation is really simple</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>The client needs a product, but instead of creating it directly using the new operator, it asks the factory object for a new product, providing the information about the type of object it needs.</p>
+</li>
+<li>
+<p>The factory instantiates a new concrete product and then returns to the client the newly created product(casted to abstract product class).</p>
+</li>
+<li>
+<p>The client uses the products as abstract products without being aware about their concrete implementation.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Steps and Code snippet</strong></p>
+</div>
+<div class="paragraph">
+<p><a href="https://gist.github.com/Sudip7/dc4016e13eb77aaacd25790c56a9fe45" class="bare">https://gist.github.com/Sudip7/dc4016e13eb77aaacd25790c56a9fe45</a></p>
+</div>
+</div>
+</div>
+</div>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="https://www.example.org/posts/hugo-with-asciidocs-steps/"><i class="fa fa-chevron-circle-left"></i> Hugo with asciidoc steps</a>
+        </li>
+        
+        
+        <li>
+            <a href="https://www.example.org/posts/spring-security-short-note/">Spring security short note <i class="fa fa-chevron-circle-right"></i> </a>
+        </li>
+        
+    </ul>
+</section>
+    
+
+
+
+
+
+</main>
+    <footer>
+        <h6>Copyright &copy; 2017 - Author Name | 
+            Rendered by <a href="https://gohugo.io" title="Hugo">Hugo</a> |
+            <a href="https://www.example.org/index.xml">Subscribe</a></h6>
+    </footer>
+</div>
+<script src="https://www.example.org/js/scripts.js"></script>
+</body>
+
+</html>

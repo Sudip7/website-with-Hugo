@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Patterns on Kiera</title>
+    <link>https://www.example.org/tags/design-patterns/</link>
+    <description>Recent content in Design Patterns on Kiera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2017 - Author Name</copyright>
+    <lastBuildDate>Sat, 10 Nov 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.example.org/tags/design-patterns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design Patterns Short notes</title>
+      <link>https://www.example.org/posts/design-patterns/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://www.example.org/posts/design-patterns/</guid>
+      <description>What is Design pattern Instead of defining what is design pattern lets define what we mean by design and what we mean by pattern.
+ Design is blue print or sketch of something so it can be defined as creation of something in mind.</description>
+    </item>
+    
+  </channel>
+</rss>
