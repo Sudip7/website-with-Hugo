@@ -54,3 +54,14 @@ heroku buildpacks:set https://github.com/roperzh/heroku-buildpack-hugo.git -a ca
 git push heroku master
 
 heroku open
+
+* To deploy in netlify
+
+** Update the baseurl in config.toml to that of netlify site url.
+
+** Edit the deploy command to as below
+
+[source, ruby]
+
+gem install --no-document asciidoctor && hugo
+
