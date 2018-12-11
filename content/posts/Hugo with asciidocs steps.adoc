@@ -39,4 +39,18 @@ bundle install
 
 * To start the server locally use : huge server
 
-    
+* To deploy in heroku follow below tutorial
+** http://byenary.com/blog/2015/04/02/setting-up-a-blog-with-hugo-and-heroku/
+
+** Basically do the required source changes, change the base url pointing to heroku website and push
+
+[source,ruby]
+
+git add -A
+git commit -m ‘Initial commit’
+
+heroku buildpacks:set https://github.com/roperzh/heroku-buildpack-hugo.git -a calm-ridge-85566
+
+git push heroku master
+
+heroku open
