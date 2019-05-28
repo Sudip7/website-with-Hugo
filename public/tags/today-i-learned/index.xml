@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Today I Learned on Hugo website</title>
+    <link>https://amazing-hugo-site.netlify.com/tags/today-i-learned/</link>
+    <description>Recent content in Today I Learned on Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2019 - Sudip Nayak</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://amazing-hugo-site.netlify.com/tags/today-i-learned/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Today I learned</title>
+      <link>https://amazing-hugo-site.netlify.com/posts/today-i-learned/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://amazing-hugo-site.netlify.com/posts/today-i-learned/</guid>
+      <description>The objective of this post is to keep track of learning I do each day. This is part of my new year resolution to learn things in a better and effective way.</description>
+    </item>
+    
+  </channel>
+</rss>

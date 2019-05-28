@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Podcasts on Kiera</title>
-    <link>https://www.example.org/tags/podcasts/</link>
-    <description>Recent content in Podcasts on Kiera</description>
+    <title>Podcasts on Hugo website</title>
+    <link>https://amazing-hugo-site.netlify.com/tags/podcasts/</link>
+    <description>Recent content in Podcasts on Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright &amp;copy; 2017 - Author Name</copyright>
+    <copyright>Copyright &amp;copy; 2019 - Sudip Nayak</copyright>
     <lastBuildDate>Wed, 05 Dec 2018 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://www.example.org/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amazing-hugo-site.netlify.com/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cloud native attitude</title>
-      <link>https://www.example.org/posts/cloud-native-attitude/</link>
+      <link>https://amazing-hugo-site.netlify.com/posts/cloud-native-attitude/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://www.example.org/posts/cloud-native-attitude/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/posts/cloud-native-attitude/</guid>
       <description>The objective of this document is list out the use cases, resources to understand the application architecture, behaviour, use cases when migrating to cloud.
    resources url https://container-solutions.com/</description>
     </item>

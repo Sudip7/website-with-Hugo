@@ -3,91 +3,119 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.example.org/posts/cloud-native-attitude/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/posts/distributed-system/</loc>
+    <lastmod>2019-05-28T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazing-hugo-site.netlify.com/posts/today-i-learned/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazing-hugo-site.netlify.com/posts/cloud-native-attitude/</loc>
     <lastmod>2018-12-05T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.org/posts/spring-security-short-note/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/posts/spring-security-short-note/</loc>
     <lastmod>2018-11-13T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.org/posts/design-patterns/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/posts/design-patterns/</loc>
     <lastmod>2018-11-10T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.org/posts/hugo-with-asciidocs-steps/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/posts/hugo-with-asciidocs-steps/</loc>
     <lastmod>2018-11-10T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.org/posts/new-sample-post/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/posts/new-sample-post/</loc>
     <lastmod>2018-03-03T13:23:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.org/categories/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/cloud_native/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/tags/cloud_native/</loc>
     <lastmod>2018-12-05T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/design-patterns/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/tags/concurrency/</loc>
+    <lastmod>2019-05-28T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-hugo-site.netlify.com/tags/design-patterns/</loc>
     <lastmod>2018-11-10T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/getting-started/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/tags/distributed_systems/</loc>
+    <lastmod>2019-05-28T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-hugo-site.netlify.com/tags/getting-started/</loc>
     <lastmod>2018-03-03T13:23:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/hugo-website/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/tags/hugo-website/</loc>
     <lastmod>2018-11-10T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/</loc>
+    <lastmod>2019-05-28T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-hugo-site.netlify.com/tags/podcasts/</loc>
     <lastmod>2018-12-05T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/podcasts/</loc>
-    <lastmod>2018-12-05T00:00:00+05:30</lastmod>
+    <loc>https://amazing-hugo-site.netlify.com/posts/</loc>
+    <lastmod>2019-05-28T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/posts/</loc>
-    <lastmod>2018-12-05T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.example.org/tags/spring-security/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/tags/spring-security/</loc>
     <lastmod>2018-11-13T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/tags/</loc>
     <lastmod>2018-12-05T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.example.org/tags/use_cases/</loc>
+    <loc>https://amazing-hugo-site.netlify.com/tags/today-i-learned/</loc>
+    <lastmod>2019-01-01T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-hugo-site.netlify.com/tags/use_cases/</loc>
     <lastmod>2018-12-05T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>

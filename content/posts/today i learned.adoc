@@ -1,0 +1,29 @@
++++
+title = "Today I learned"
+date = 2019-01-01
+draft = false
+tags = ["today i learned"]
+categories = []
++++
+
+
+The objective of this post is to keep track of learning I do each day.
+This is part of my new year resolution to learn things in a better and effective way.
+
+* *1st Jan 2019*
+
+** Today I was suppossed to start learning python that I planned couple of days ago. Although I prepared
+   initial plans and list of resources I want to try something different this time. So instead of learning the python and it's 
+   syntax and some code practice I will learn following things first
+   
+*** Take time to learn how to learn : A good coursera course 
+     https://www.coursera.org/learn/learning-how-to-learn
+     https://www.reddit.com/r/learnpython/comments/9aez4b/take_the_time_to_learn_how_to_learn/
+**** Summary for today :
+***** Mind has two different modes for learning : focused and diffused mode each having different capabilities
+***** Learning something difficult takes time similar to building muscles. It needs regular practice each day.
+      So to overcome any difficult aspect of learning need to learn and practice the subject each day.
+      brainfacts.org : to learn more about mermory n brain.
+
+*** Some sort of gamification approach to keep track of my habit. This is a experiment as I almost lost
+    the habbit of consistency. https://www.taskheroics.com

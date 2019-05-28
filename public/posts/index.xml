@@ -1,32 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Kiera</title>
-    <link>https://www.example.org/posts/</link>
-    <description>Recent content in Posts on Kiera</description>
+    <title>Posts on Hugo website</title>
+    <link>https://amazing-hugo-site.netlify.com/posts/</link>
+    <description>Recent content in Posts on Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright &amp;copy; 2017 - Author Name</copyright>
-    <lastBuildDate>Wed, 05 Dec 2018 00:00:00 +0530</lastBuildDate>
+    <copyright>Copyright &amp;copy; 2019 - Sudip Nayak</copyright>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://www.example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amazing-hugo-site.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Distributed system</title>
+      <link>https://amazing-hugo-site.netlify.com/posts/distributed-system/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://amazing-hugo-site.netlify.com/posts/distributed-system/</guid>
+      <description>A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another. The components interact with one another in order to achieve a common goal.</description>
+    </item>
+    
+    <item>
+      <title>Today I learned</title>
+      <link>https://amazing-hugo-site.netlify.com/posts/today-i-learned/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://amazing-hugo-site.netlify.com/posts/today-i-learned/</guid>
+      <description>The objective of this post is to keep track of learning I do each day. This is part of my new year resolution to learn things in a better and effective way.</description>
+    </item>
+    
+    <item>
       <title>Cloud native attitude</title>
-      <link>https://www.example.org/posts/cloud-native-attitude/</link>
+      <link>https://amazing-hugo-site.netlify.com/posts/cloud-native-attitude/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://www.example.org/posts/cloud-native-attitude/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/posts/cloud-native-attitude/</guid>
       <description>The objective of this document is list out the use cases, resources to understand the application architecture, behaviour, use cases when migrating to cloud.
    resources url https://container-solutions.com/</description>
     </item>
     
     <item>
       <title>Spring security short note</title>
-      <link>https://www.example.org/posts/spring-security-short-note/</link>
+      <link>https://amazing-hugo-site.netlify.com/posts/spring-security-short-note/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://www.example.org/posts/spring-security-short-note/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/posts/spring-security-short-note/</guid>
       <description>Spring security configuration can be found in the below listed urls.
  https://spring.io/guides/gs/securing-web/
  https://docs.spring.io/spring-security/site/docs/current/guides/html5/helloworld-boot.html
@@ -38,20 +56,20 @@
     
     <item>
       <title>Design Patterns Short notes</title>
-      <link>https://www.example.org/posts/design-patterns/</link>
+      <link>https://amazing-hugo-site.netlify.com/posts/design-patterns/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://www.example.org/posts/design-patterns/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/posts/design-patterns/</guid>
       <description>What is Design pattern Instead of defining what is design pattern lets define what we mean by design and what we mean by pattern.
  Design is blue print or sketch of something so it can be defined as creation of something in mind.</description>
     </item>
     
     <item>
       <title>Hugo with asciidoc steps</title>
-      <link>https://www.example.org/posts/hugo-with-asciidocs-steps/</link>
+      <link>https://amazing-hugo-site.netlify.com/posts/hugo-with-asciidocs-steps/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://www.example.org/posts/hugo-with-asciidocs-steps/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/posts/hugo-with-asciidocs-steps/</guid>
       <description>Install Hugo
   https://gohugo.io/getting-started/installing/#windows
      install ruby and gem.
@@ -62,10 +80,10 @@
     
     <item>
       <title>First Post</title>
-      <link>https://www.example.org/posts/new-sample-post/</link>
+      <link>https://amazing-hugo-site.netlify.com/posts/new-sample-post/</link>
       <pubDate>Sat, 03 Mar 2018 13:23:10 +0100</pubDate>
       
-      <guid>https://www.example.org/posts/new-sample-post/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/posts/new-sample-post/</guid>
       <description>Hello Hugo world! No more excuses for having no blog or documentation now!
  </description>
     </item>

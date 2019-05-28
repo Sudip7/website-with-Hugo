@@ -1,76 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Kiera</title>
-    <link>https://www.example.org/tags/</link>
-    <description>Recent content in Tags on Kiera</description>
+    <title>Tags on Hugo website</title>
+    <link>https://amazing-hugo-site.netlify.com/tags/</link>
+    <description>Recent content in Tags on Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright &amp;copy; 2017 - Author Name</copyright>
+    <copyright>Copyright &amp;copy; 2019 - Sudip Nayak</copyright>
     <lastBuildDate>Wed, 05 Dec 2018 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://www.example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amazing-hugo-site.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cloud_native</title>
-      <link>https://www.example.org/tags/cloud_native/</link>
+      <link>https://amazing-hugo-site.netlify.com/tags/cloud_native/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://www.example.org/tags/cloud_native/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/tags/cloud_native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concurrency</title>
+      <link>https://amazing-hugo-site.netlify.com/tags/concurrency/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://amazing-hugo-site.netlify.com/tags/concurrency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design Patterns</title>
-      <link>https://www.example.org/tags/design-patterns/</link>
+      <link>https://amazing-hugo-site.netlify.com/tags/design-patterns/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://www.example.org/tags/design-patterns/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/tags/design-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed_systems</title>
+      <link>https://amazing-hugo-site.netlify.com/tags/distributed_systems/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://amazing-hugo-site.netlify.com/tags/distributed_systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>https://www.example.org/tags/getting-started/</link>
+      <link>https://amazing-hugo-site.netlify.com/tags/getting-started/</link>
       <pubDate>Sat, 03 Mar 2018 13:23:10 +0100</pubDate>
       
-      <guid>https://www.example.org/tags/getting-started/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/tags/getting-started/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo Website</title>
-      <link>https://www.example.org/tags/hugo-website/</link>
+      <link>https://amazing-hugo-site.netlify.com/tags/hugo-website/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://www.example.org/tags/hugo-website/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/tags/hugo-website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcasts</title>
-      <link>https://www.example.org/tags/podcasts/</link>
+      <link>https://amazing-hugo-site.netlify.com/tags/podcasts/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://www.example.org/tags/podcasts/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/tags/podcasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring Security</title>
-      <link>https://www.example.org/tags/spring-security/</link>
+      <link>https://amazing-hugo-site.netlify.com/tags/spring-security/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://www.example.org/tags/spring-security/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/tags/spring-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Today I Learned</title>
+      <link>https://amazing-hugo-site.netlify.com/tags/today-i-learned/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://amazing-hugo-site.netlify.com/tags/today-i-learned/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Use_cases</title>
-      <link>https://www.example.org/tags/use_cases/</link>
+      <link>https://amazing-hugo-site.netlify.com/tags/use_cases/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0530</pubDate>
       
-      <guid>https://www.example.org/tags/use_cases/</guid>
+      <guid>https://amazing-hugo-site.netlify.com/tags/use_cases/</guid>
       <description></description>
     </item>
     

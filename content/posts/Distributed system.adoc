@@ -1,0 +1,25 @@
++++
+title = "Distributed system"
+date = 2019-05-28
+draft = false
+tags = ["distributed_systems","concurrency"]
+categories = []
++++
+
+* A distributed system is a system whose components are located on different networked computers, which communicate and 
+  coordinate their actions by passing messages to one another. The components interact with one another in order to achieve a common goal.
+
+* Some good reads to understand the complexities and challanges involed in developement and maintainance of these systems.
+
+** https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/
+
+** http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
+
+* Traditionally to achieve concurrency threads and locks are used in abudance as those systems are easy to develope and inspect.
+  But as size of application grows and it become distributed over worldwide the above aproach has of little to no use. So now
+  most of large systems being actively developed are looking towards asynchronous and functional programming approach.
+  
+
+
+
+* *Reference Books:* Seven Concurrency Models in Seven Weeks by Paul Butcher
