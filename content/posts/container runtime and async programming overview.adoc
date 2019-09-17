@@ -1,0 +1,26 @@
++++
+title = "container runtime and async programming overview"
+date = 2019-09-16
+draft = false
+tags = ["container_runtime","async_programming"]
+categories = []
++++
+
+The objective of this document is list out the important topic as discussed in weekly tech sessioin.
+
+* What is a container ?
+
+** A container is runtime environment that manages life cycle of web components and provides other services.
+
+* How many types of container are available in java ?
+** The java EE specification outlines 4 types of containers as listed below
+
+https://www.techpaste.com/2012/02/types-java-ee-containers/
+
+*** Appliet container(Appliet)
+*** Application client container(Application client)
+*** Web container(Servlet, JSP, JSF)
+*** EJB container(EJB)
+
+** Servlet container proving first 3 types of containers are called web servers and those provides
+all the container types are called application(App) server.

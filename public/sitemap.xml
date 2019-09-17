@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://amazing-hugo-site.netlify.com/posts/container-runtime-and-async-programming-overview/</loc>
+    <lastmod>2019-09-16T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://amazing-hugo-site.netlify.com/posts/distributed-system/</loc>
     <lastmod>2019-05-28T00:00:00+05:30</lastmod>
   </url>
@@ -38,6 +43,12 @@
   </url>
   
   <url>
+    <loc>https://amazing-hugo-site.netlify.com/tags/async_programming/</loc>
+    <lastmod>2019-09-16T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://amazing-hugo-site.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -51,6 +62,12 @@
   <url>
     <loc>https://amazing-hugo-site.netlify.com/tags/concurrency/</loc>
     <lastmod>2019-05-28T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazing-hugo-site.netlify.com/tags/container_runtime/</loc>
+    <lastmod>2019-09-16T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,7 +97,7 @@
   
   <url>
     <loc>https://amazing-hugo-site.netlify.com/</loc>
-    <lastmod>2019-05-28T00:00:00+05:30</lastmod>
+    <lastmod>2019-09-16T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,7 +109,7 @@
   
   <url>
     <loc>https://amazing-hugo-site.netlify.com/posts/</loc>
-    <lastmod>2019-05-28T00:00:00+05:30</lastmod>
+    <lastmod>2019-09-16T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -104,7 +121,7 @@
   
   <url>
     <loc>https://amazing-hugo-site.netlify.com/tags/</loc>
-    <lastmod>2018-12-05T00:00:00+05:30</lastmod>
+    <lastmod>2019-09-16T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
